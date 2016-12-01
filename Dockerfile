@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM openjdk:8-jdk
 MAINTAINER Guilhem Eydieux
 
 RUN apt-get update
